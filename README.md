@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="/images/mouse-ApoTome_Deconvolved-CBH.gif" width = "200" >
 <!--
 **Cibuha/Cibuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
