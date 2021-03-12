@@ -1,2 +1,2 @@
-### Hi there 👋
-<img src="https://github.com/Cibuha/images/blob/main/mouse-ApoTome_Deconvolved-CBH.gif?raw=true" width = "750" >
+### Hello there 👋
+<img src="images/mouse-ApoTome_Deconvolved-CBH.gif" width = "750" >
